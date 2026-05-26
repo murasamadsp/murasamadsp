@@ -1,28 +1,19 @@
-<!-- markdownlint-disable MD033 -->
-<div align="center">
-
 # Mykhailo Ostrovskyi
+### Audio DSP & Machine Learning Engineer
 
-**Norway** • **[Telegram](https://t.me/murasamadsp)** • **[Email](mailto:murasama.off@gmail.com)**
-
----
-
-I am an Audio DSP & Machine Learning Engineer with a professional background in Sound Engineering.  
-I focus on bridging the gap between audio processing, modern web architectures, and machine learning models.
+Norway  •  [Telegram](https://t.me/murasamadsp)  •  [murasama.off@gmail.com](mailto:murasama.off@gmail.com)
 
 ---
 
-### Focus & Interests
+I am an Audio DSP & Machine Learning Engineer with a professional background in Sound Engineering. My work focuses on bridging the gap between audio processing, modern web architectures, and machine learning models.
 
-`neural source separation` • `audio raytracing` • `SaaS solutions`  
-`low-latency DSP pipelines` • `neurobiology`
+#### Focus
+* Neural audio source separation
+* Audio raytracing
+* SaaS solutions
+* Real-time DSP pipelines & neurobiology
 
----
-
-### Tech Stack
-
-**Audio DSP** &mdash; C++, JUCE, Python  
-**Machine Learning** &mdash; PyTorch, NumPy  
-**Web & Systems** &mdash; Next.js, TypeScript, Docker, Linux
-
-</div>
+#### Tech Stack
+* **Audio DSP** — C++, JUCE, Python
+* **Machine Learning** — PyTorch, NumPy
+* **Web & Systems** — Next.js, TypeScript, Docker, Linux
