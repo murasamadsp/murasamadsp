@@ -1,8 +1,4 @@
 <!-- markdownlint-disable MD033 -->
-<p align="center">
-  <img src="banner.png" alt="Mykhailo's Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Mykhailo Ostrovskyi (murasamadsp) 👋</h1>
 <p align="center">
   <strong>Audio DSP & Machine Learning Engineer | Sound Engineer</strong>
