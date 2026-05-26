@@ -1,18 +1,22 @@
-# Mykhailo Ostrovskyi
+<!-- markdownlint-disable MD033 -->
+# Mykhailo Ostrovskyi 👋
 
-Norway • [t.me/murasamadsp](https://t.me/murasamadsp) • [murasama.off@gmail.com](mailto:murasama.off@gmail.com)
+Norway 🇳🇴 • [Telegram](https://t.me/murasamadsp) • [Email](mailto:murasama.off@gmail.com)
 
 ---
 
-Audio DSP & Machine Learning Engineer focusing on real-time signal processing, neural source separation, and audio raytracing.
+### 🎧 About Me
+I am an Audio DSP & Machine Learning Engineer with a professional background in Sound Engineering. I focus on bridging the gap between audio processing, modern web architectures, and machine learning models.
 
-### Focus
-- Neural audio source separation
-- Audio raytracing
-- SaaS solutions
-- Real-time DSP pipelines & neurobiology
+* 🛠️ **Current Focus**: Researching neural audio source separation, audio raytracing, and SaaS solutions.
+* ⚡ **Interests**: Optimizing real-time DSP pipelines, neurobiology.
 
-### Tech Stack
-- **Systems & DSP**: C++ / JUCE
-- **Machine Learning**: Python / PyTorch
-- **Web & Infra**: TypeScript / Next.js, Docker, Linux
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Field | Technologies & Tools |
+| :--- | :--- |
+| **Audio DSP** | ![C++](https://img.shields.io/badge/C%2B%2B-2A2A2A?style=flat-square&logo=c%2B%2B&logoColor=white) ![JUCE](https://img.shields.io/badge/JUCE-2A2A2A?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-2A2A2A?style=flat-square&logo=python&logoColor=white) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-2A2A2A?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-2A2A2A?style=flat-square&logo=numpy&logoColor=white) |
+| **Web & Systems** | ![Next.js](https://img.shields.io/badge/Next.js-2A2A2A?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2A2A2A?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2A2A2A?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-2A2A2A?style=flat-square&logo=linux&logoColor=white) |
