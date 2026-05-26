@@ -43,19 +43,3 @@ I'm a passion-driven Audio Digital Signal Processing (DSP) & Machine Learning En
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-```cpp
-// my_stack_organized.cpp
-
-#include <DSP>
-#include <ML>
-#include <Web>
-
-class Mykhailo : public Engineer {
-public:
-    using AudioDSP        = std::tuple<Cpp, JUCE, Python, Reaper, OSC>;
-    using MachineLearning = std::tuple<PyTorch, NumPy, SciPy, Colab>;
-    using WebAndSystems   = std::tuple<NextJS, TypeScript, React, Fastify, Turborepo>;
-    using Infrastructure  = std::tuple<PostgreSQL, Redis, Docker, Nginx, Linux>;
-};
-```
