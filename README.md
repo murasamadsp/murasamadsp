@@ -17,8 +17,8 @@
 
 I am an Audio Digital Signal Processing (DSP) & Machine Learning Engineer and a professional Sound Engineer based in Norway. I bridge the gap between low-level systems programming, neural audio modeling, and real-time audio systems.
 
-*   🛠️ **Research & Focus** &mdash; GPU-accelerated acoustics simulation, neural source separation (hybrid state-space models), and sub-millisecond real-time web/native control interfaces.
-*   ⚡ **Interests** &mdash; Mechanistic interpretability of spectrotemporal architectures, low-latency DSP pipelines, and neurobiology.
+*   🛠️ **Research & Focus** &mdash; GPU-accelerated acoustics, neural source separation, and real-time control interfaces.
+*   ⚡ **Interests** &mdash; Mechanistic interpretability of neural architectures, low-latency DSP pipelines, and neurobiology.
 
 <hr>
 
@@ -26,8 +26,8 @@ I am an Audio Digital Signal Processing (DSP) & Machine Learning Engineer and a 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&v=3) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&v=3) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&v=3) ![JUCE](https://img.shields.io/badge/JUCE-black?style=flat&v=3) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&v=3) ![Max/MSP](https://img.shields.io/badge/Max/MSP-black?style=flat&v=3) ![OSC](https://img.shields.io/badge/OSC-0055ff?style=flat&v=3)
 
-*   **Core Systems:** JUCE framework, FMOD integrations, GPU-accelerated raytracing (`metal-cpp` for real-time 2D acoustics).
-*   **Projects & Research:** Tabletop UAV acoustic IFF (Identification Friend or Foe) transceiver prototype, SVD-based audio entropy/noise reduction, and Max/MSP OSC remote solo panels.
+*   **Focus:** Real-time acoustics modeling, audio source separation pipelines, and low-latency native systems.
+*   **APIs & Toolkits:** JUCE framework, FMOD integrations, and Max/MSP control systems.
 
 <hr>
 
@@ -35,10 +35,8 @@ I am an Audio Digital Signal Processing (DSP) & Machine Learning Engineer and a 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&v=3) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&v=3) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white&v=3) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white&v=3)
 
-*   **Architectures:** Mel-Band Mamba2 (hybrid State Space Models), Mel-Band Roformer (48kHz dual-channel), Polar Coordinate Positional Embedding (PoPE), and Complex Ratio Masking (CRM).
-*   **Optimization & Compute:** Muon optimizer (2D weight matrices), SageAttention, FlashAttention-2/3 (Windowed Sink Attention).
-*   **Audio ML Tooling:** Spotify Pedalboard, Demucs v4 (source separation), and Weights & Biases.
-*   **Interpretability:** Mechanistic interpretability (causal circuit analysis, activation patching, and zero/mean-ablation on spectrotemporal pathways).
+*   **Focus:** Deep learning for audio, generative DSP, hybrid State Space Models (Mamba2/Roformer), and model interpretability.
+*   **Training & Optimization:** High-fidelity source separation models, attention mechanism tuning, and custom loss functions.
 
 <hr>
 
@@ -46,9 +44,8 @@ I am an Audio Digital Signal Processing (DSP) & Machine Learning Engineer and a 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&v=3) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&v=3) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&v=3) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white&v=3) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white&v=3) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white&v=3)
 
-*   **Frameworks & Bundlers:** Next.js (React 19 & React Compiler), Astro, Vite/Rolldown, and Electron (desktop webcam utilities).
-*   **Real-time & APIs:** uWebSockets.js (for sub-millisecond local server-UI pipelines), Socket.io, and Model Context Protocol (MCP) integrations.
-*   **Tooling:** Biome.
+*   **Focus:** High-performance web applications, real-time client-server communication, and desktop shell wrappers.
+*   **Build & Linting:** Next.js/React architectures, Astro static setups, and Biome-configured codebases.
 
 <hr>
 
@@ -56,5 +53,5 @@ I am an Audio Digital Signal Processing (DSP) & Machine Learning Engineer and a 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&v=3) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&v=3) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white&v=3) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&v=3) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white&v=3) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&v=3)
 
-*   **High-Performance Systems:** Async Rust (Tokio, Axum) and Bevy ECS (Entity Component System) for game servers.
-*   **Monorepos & Workflow:** Turborepo, pnpm.
+*   **Services & Networking:** High-performance async services in Rust (Tokio/Axum) and containerized deployment pipelines.
+*   **Workflow Management:** Monorepo architecture (Turborepo, pnpm).
