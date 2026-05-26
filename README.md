@@ -25,7 +25,7 @@ Norway 🇳🇴 • [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?st
     <td width="45%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=murasamadsp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%">
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasamadsp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murasamadsp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="100%">
     </td>
   </tr>
 </table>
