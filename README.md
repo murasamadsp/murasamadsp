@@ -5,7 +5,7 @@
 
 **Audio DSP & Machine Learning Engineer | Sound Engineer**
 
-[![Telegram](https://img.shields.io/badge/Telegram-murasamadsp-blue?style=flat&logo=telegram)](https://t.me/murasamadsp) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-murasama.off-red?style=flat&logo=gmail)](mailto:murasama.off@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-murasamadsp-blue?style=flat&logo=telegram)](https://t.me/mura_sama) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-murasama.off-red?style=flat&logo=gmail)](mailto:murasama.off@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=murasamadsp&style=flat&color=blue&label=PROFILE+VIEWS)
 
